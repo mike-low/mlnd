@@ -1,13 +1,19 @@
-# Machine Learning Engineer Nanodegree
-## Specializations
-## Project: Capstone Proposal and Capstone Project
+# Udacity Machine Learning Engineer Nanodegree
 
-**Note**
+### Capstone Project: "Dogs vs Cats Redux"
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
+_Using Keras, Theano and deep learning to automaticlly distinguish images of dogs from those of cats._
 
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly when submitting these two stages which encapsulate your capstone.
+### Setup
 
-You will find an `open_projects` folder in these files. This will be where pre-curated capstone projects are available, should you choose to work on a project already partially designed for you. 
+The dataset can be [downloaded here](https://s3-us-west-2.amazonaws.com/mikelow-mlnd-capstone/vgg16_files.zip). After unzipping, it will create a /data/ directory that should be placed in the project root.
 
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+There are also three extra files that are too large for the GitHub repo, they can be [downloaded here](https://s3-us-west-2.amazonaws.com/mikelow-mlnd-capstone/vgg16_files.zip).
+
+ - vgg16_weights.h5 should be moved to /implementation/
+ - vgg16_features_train.npy  should be moved to /implementation/vgg_new_top_layers/
+ - vgg16_features_validation.npy should be moved to /implementation/vgg_new_top_layers/
+
+### Running
+
+The code itself is in self-contained Jupyter notebooks inside the /implementation/ folder
