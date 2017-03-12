@@ -1,8 +1,15 @@
 # Udacity Machine Learning Engineer Nanodegree
 
-These are my projects completed as part of the this course (https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+These are my projects completed as part of the the [Machine Learning Engineer Nanodegree] course (https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
-They're all using Python 2.7 and Jupyter Notebooks
+They're all using Python 2.7 and Jupyter Notebooks. My capstone project is using deep learning, Keras and Theano to automatically distinguish photos of cats from photos of dogs.
+
+### Course Description
+
+> Machine learning represents a key evolution in the fields of computer science, data analysis, software engineering, and artificial intelligence.
+> This program will teach you how to become a machine learning engineer, and apply predictive models to massive data sets in fields like finance, healthcare, education, and more.
+
+### Projects
 
 **P0: Titanic Survival Exploration**
 > In this project, you will create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. You will start with a simple algorithm and increase its complexity until you are able to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.
