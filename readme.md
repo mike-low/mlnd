@@ -1,8 +1,8 @@
 # Udacity Machine Learning Engineer Nanodegree
 
-These are my projects completed as part of the the [Machine Learning Engineer Nanodegree] course (https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
+These are my projects completed as part of the the [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) course.
 
-They're all using Python 2.7 and Jupyter Notebooks. My capstone project is using deep learning, Keras and Theano to automatically distinguish photos of cats from photos of dogs.
+They are written in Python 2.7, using Jupyter Notebooks. My capstone project is using deep learning, Keras and Theano to automatically distinguish photos of cats from photos of dogs.
 
 ### Course Description
 
